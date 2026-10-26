@@ -121,8 +121,8 @@ def live_pos():
 # plus_UT = 5.0  #in case you want to set local UTC shift by hand
 fname_s = "Stars.txt" # "Messier.txt"
 fname_c = "Cities.txt"
-target_name = "Polaris"
-city = "Athens"
-country = "Greece"
+target_name = "Vega"
+city = "Mumbai"
+country = "India"
 
 live_pos()

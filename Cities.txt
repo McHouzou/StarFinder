@@ -729,7 +729,7 @@ Warri	5.52	5.76	Nigeria
 Basel	47.5804	7.59	Switzerland
 San Miguel de Tucumán	-26.816	-65.2166	Argentina
 Kermānshāh	34.38	47.06	Iran
-Thessaloníki	40.6961	22.885	Greece
+Thessaloniki	40.6961	22.885	Greece
 Omaha	41.2628	-96.0498	United States
 Kota	25.18	75.835	India
 Braga	41.555	-8.4213	Portugal
